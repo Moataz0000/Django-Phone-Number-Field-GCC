@@ -26,6 +26,8 @@ Install the package via `pip`:
 pip install Django-GCC-PhoneNumbers
 ```
 
+---
+
 ```bash
 from django.db import models
 from phonevalidatorGCC.fields import PhoneNumberField
