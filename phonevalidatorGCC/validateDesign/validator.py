@@ -1,6 +1,6 @@
 # phonevalidatorGCC/validator.py
 from django.core.exceptions import ValidationError
-from strategies.base import PhoneValidationStrategy
+from ..strategies.base import PhoneValidationStrategy
 from .observers import PhoneValidationObserver
 
 

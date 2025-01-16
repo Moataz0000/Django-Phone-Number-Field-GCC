@@ -1,8 +1,8 @@
 from django.db import models
 from django.core.exceptions import ValidationError
-from validateDesign.factory import PhoneValidationStrategyFactory
-from validateDesign.decorators import PhoneValidationDecorator
-from validateDesign.validator import PhoneValidator
+from .validateDesign.factory import PhoneValidationStrategyFactory
+from .validateDesign.decorators import PhoneValidationDecorator
+from .validateDesign.validator import PhoneValidator
 
 
 
