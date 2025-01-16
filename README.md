@@ -23,7 +23,7 @@
 Install the package via `pip`:
 
 ```bash
-pip install phonevalidatorx
+pip install Django-GCC-PhoneNumbers
 ```
 
 ```bash
